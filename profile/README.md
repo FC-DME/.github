@@ -6,7 +6,7 @@ Fluid Codes Ltd was founded in 1997 to address the fluid simulation requirements
 
 Fluid Codes is the ELITE Channel Partner of ANSYS Inc., authorized with exclusive rights to distribute and provide certified training and support for ANSYS Engineering Simulation Solutions in the Middle East, Europe, and Africa through offices in Saudi Arabia, United Arab Emirates and Bulgaria.
 
-## List of Repositories
+## List of Repositories - UI Plugins
 
 ### [UIPlugin_EOIRReflectanceMap](https://github.com/FC-DME/UIPlugin_EOIRReflectanceMap)
 The EOIR Reflectance Map Generator plugin allows users to generate a reflectance map to use with Ansys' Systems Tool Kit EOIR capabilities.
